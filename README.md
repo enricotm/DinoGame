@@ -11,10 +11,10 @@ ArrowDown --> Duck
 
 Work in progress (future changes)
 ---
-Add player and obstacles images  
-Add flying obstacles  
-Add more obstacles variants  
-Add background
+- Add player and obstacles images  
+- Add flying obstacles  
+- Add more obstacles variants  
+- Add background  
 
------------------ by enricotm -------------------
+---------------- by enricotm ------------------
 ---
